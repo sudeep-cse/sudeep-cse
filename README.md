@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on flutter app Projects
 - 👀 I’m a Software engineer and Gen-AI developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me on mail:- sudeepkumar20192019@gmail.com
+- 📫 reach me on mail:- sudeep.cse.work@gmail.com
 - 👨‍💻 All of my projects are available at [My Github Profile]
 
 
