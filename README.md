@@ -3,7 +3,6 @@
 - 👀 I’m a Software engineer and Gen-AI developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on mail:- sudeep.cse.work@gmail.com
-- 👨‍💻 All of my projects are available at [My Github Profile]
 
 
 ## 🌐 Socials:
