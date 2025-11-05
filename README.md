@@ -1,6 +1,6 @@
-**I teach machines how to think.**
+**Sup! I'm The Sudeep.**
 
-*Currently building intelligent systems using Python, Deep Learning & LLMs.*
+*I teach machines how to think!*
 
 
 
