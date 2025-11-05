@@ -1,5 +1,5 @@
-# Sup! I'm Sudeep
-# I write something for machines and they understand!
+Sup! I'm The Sudeep.
+I teach machines how to think!
 
 
 ## 🌐 Socials:
