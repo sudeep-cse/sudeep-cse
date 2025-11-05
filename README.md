@@ -1,8 +1,5 @@
-- 👋 Hi, I’m sudeep Kumar.
-- 💞️ I’m looking to collaborate on flutter app Projects
-- 👀 I’m a Software engineer and Gen-AI developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me on mail:- sudeep.cse.work@gmail.com
+Sup! I'm Sudeep
+I write something for machines and they understand!
 
 
 ## 🌐 Socials:
