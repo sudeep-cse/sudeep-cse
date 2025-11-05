@@ -1,4 +1,4 @@
-Sup! I'm The Sudeep.
+Sup! I'm The Sudeep.  
 I teach machines how to think!
 
 
