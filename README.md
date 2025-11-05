@@ -1,5 +1,6 @@
-Sup! I'm The Sudeep.  
-I teach machines how to think!
+**I teach machines how to think.**  
+*Currently building intelligent systems using Python, Deep Learning & LLMs.*
+
 
 
 ## 🌐 Socials:
